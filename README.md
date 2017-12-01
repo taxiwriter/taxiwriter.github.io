@@ -13,5 +13,5 @@ With this github instance, this is my first time to use:
 	* again
 	* a list
 	* of what
-4. **you** *don't* ***really*** ###need
+4. **you** *don't* ***really***
 
