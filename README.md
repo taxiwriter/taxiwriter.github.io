@@ -8,10 +8,11 @@ With this github instance, this is my first time to use:
 	* markdown as it is
 	* alternative for *mediawiki*
  	* read it
-2. **less** and **scss** using this with **css**
+2. **less** and **scss** using with **css**
 3. finished..
 	* again
 	* a list
 	* of what
 4. **you** *don't* ***really***
+###need!
 
