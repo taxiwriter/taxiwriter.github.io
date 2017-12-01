@@ -7,5 +7,7 @@ With this github instance, this is my first time to use:
 1. **markdown** to write this *readme.me*
 	1. markdown as it is
 	2. alternative for *mediawiki*
+  3. read it
+  * cool down
 2. **less** and **scss** using this with **css**
 3. finished..
