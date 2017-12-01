@@ -1,3 +1,10 @@
+---
+title: my story
+author: Boris Böttger
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+date: 2017-12-01
+---
+
 # Readme von taxiwriter.github.io
 ## This github instance is used mainly as a playground for developing css-layouts
 
